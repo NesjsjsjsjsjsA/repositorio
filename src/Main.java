@@ -124,7 +124,7 @@ public class Main {
         valora = help.nextInt();
         valorb = help.nextInt();
 
-        return valora - valorb;
+        return valora/valorb;
     }
 
 }
