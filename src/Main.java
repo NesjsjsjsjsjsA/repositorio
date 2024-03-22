@@ -56,6 +56,8 @@ public class Main {
             } else if (option == 2) {
 
                 resta();
+            } else if (option == 3) {
+                multiplicacion();
             }
 
 
