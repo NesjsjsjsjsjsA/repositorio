@@ -52,12 +52,17 @@ public class Main {
 
             if (option == 1)
             {
-                suma();
+                System.out.println(suma());
+
             } else if (option == 2) {
 
-                resta();
+                System.out.println(resta());
             } else if (option == 3) {
-                multiplicacion();
+                System.out.println(multiplicacion());
+            } else if (option == 4) {
+
+                System.out.println(division());
+
             }
 
 
